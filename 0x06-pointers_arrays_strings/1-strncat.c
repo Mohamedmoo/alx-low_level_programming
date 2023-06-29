@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * _strcat - concatenates two strings using at most
- *
+ * _strncat - concatenates two strings using at most.
  * an inputted number of bytes from src.
  * @dest: the string to be appended upon.
- * @src: the string to be appended to dest
+ * @src: the string to be appended to dest.
  * @n: the number of bytes from src to be appended to dest.
  * Return: A pointer to the resulting string dest.
  */
